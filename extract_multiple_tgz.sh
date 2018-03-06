@@ -1,1 +1,1 @@
-for f in *.tgz; do tar -xfvz "$f"; done
+for f in *.tgz; do tar -xz "$f"; done
