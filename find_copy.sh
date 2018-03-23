@@ -1,0 +1,1 @@
+find . -name "*.rpm" -exec cp {} /path/to/send/ \;
